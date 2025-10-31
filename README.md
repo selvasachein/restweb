@@ -1,4 +1,4 @@
-# Ex.07 Restaurant Website
+# Ex.06 Restaurant Website
 ## Date:
 
 ## AIM:
